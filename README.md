@@ -10,3 +10,11 @@ This is a website for the Rust game community. To search players and get their s
 
 - Node.js (planned)
 - SQL (planned)
+
+# Structure 
+
+- Home page
+- Search Players
+- Statistic
+- Servers
+- Profile / Login
